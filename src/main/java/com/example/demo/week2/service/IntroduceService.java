@@ -28,7 +28,5 @@ public class IntroduceService {
 	public String getComment() {
 		String comment = "最近仕事辞めました！！";
 		return comment;
-		
- 
 	}
 }
